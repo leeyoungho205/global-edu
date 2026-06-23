@@ -1,0 +1,472 @@
+[
+{
+"a3": "CAN",
+"nameKo": "캐나다",
+"nameEn": "Canada",
+"capKo": "오타와",
+"capEn": "Ottawa",
+"lat": 56.472,
+"lng": -90.955,
+"rank": 2
+},
+{
+"a3": "USA",
+"nameKo": "미국",
+"nameEn": "United States of America",
+"capKo": "워싱턴 D.C.",
+"capEn": "Washington, D.C.",
+"lat": 38.228,
+"lng": -90.225,
+"rank": 2
+},
+{
+"a3": "PNG",
+"nameKo": "파푸아뉴기니",
+"nameEn": "Papua New Guinea",
+"capKo": "포트모르즈비",
+"capEn": "Port Moresby",
+"lat": -7.928,
+"lng": 146.371,
+"rank": 2
+},
+{
+"a3": "IDN",
+"nameKo": "인도네시아",
+"nameEn": "Indonesia",
+"capKo": "자카르타",
+"capEn": "Jakarta",
+"lat": -0.033,
+"lng": 113.855,
+"rank": 2
+},
+{
+"a3": "ARG",
+"nameKo": "아르헨티나",
+"nameEn": "Argentina",
+"capKo": "부에노스아이레스",
+"capEn": "Buenos Aires",
+"lat": -37.079,
+"lng": -65.154,
+"rank": 2
+},
+{
+"a3": "CHL",
+"nameKo": "칠레",
+"nameEn": "Chile",
+"capKo": "산티아고",
+"capEn": "Santiago",
+"lat": -38.336,
+"lng": -71.468,
+"rank": 2
+},
+{
+"a3": "COD",
+"nameKo": "콩고 민주 공화국",
+"nameEn": "Dem. Rep. Congo",
+"capKo": "킨샤사",
+"capEn": "Kinshasa",
+"lat": -3.808,
+"lng": 23.076,
+"rank": 2
+},
+{
+"a3": "KEN",
+"nameKo": "케냐",
+"nameEn": "Kenya",
+"capKo": "나이로비",
+"capEn": "Nairobi",
+"lat": 1.275,
+"lng": 37.785,
+"rank": 2
+},
+{
+"a3": "RUS",
+"nameKo": "러시아",
+"nameEn": "Russia",
+"capKo": "모스크바",
+"capEn": "Moscow",
+"lat": 59.123,
+"lng": 90.958,
+"rank": 2
+},
+{
+"a3": "ZAF",
+"nameKo": "남아프리카 공화국",
+"nameEn": "South Africa",
+"capKo": "프리토리아",
+"capEn": "Pretoria",
+"lat": -28.604,
+"lng": 24.823,
+"rank": 2
+},
+{
+"a3": "MEX",
+"nameKo": "멕시코",
+"nameEn": "Mexico",
+"capKo": "멕시코시티",
+"capEn": "Mexico City",
+"lat": 23.823,
+"lng": -103.048,
+"rank": 2
+},
+{
+"a3": "BRA",
+"nameKo": "브라질",
+"nameEn": "Brazil",
+"capKo": "브라질리아",
+"capEn": "Brasília",
+"lat": -9.537,
+"lng": -56.944,
+"rank": 2
+},
+{
+"a3": "PER",
+"nameKo": "페루",
+"nameEn": "Peru",
+"capKo": "리마",
+"capEn": "Lima",
+"lat": -7.799,
+"lng": -74.138,
+"rank": 2
+},
+{
+"a3": "COL",
+"nameKo": "콜롬비아",
+"nameEn": "Colombia",
+"capKo": "보고타",
+"capEn": "Bogotá",
+"lat": 4.523,
+"lng": -72.711,
+"rank": 2
+},
+{
+"a3": "FRA",
+"nameKo": "프랑스",
+"nameEn": "France",
+"capKo": "파리",
+"capEn": "Paris",
+"lat": 46.952,
+"lng": 3.239,
+"rank": 2
+},
+{
+"a3": "NGA",
+"nameKo": "나이지리아",
+"nameEn": "Nigeria",
+"capKo": "아부자",
+"capEn": "Abuja",
+"lat": 9.792,
+"lng": 8.448,
+"rank": 2
+},
+{
+"a3": "VNM",
+"nameKo": "베트남",
+"nameEn": "Vietnam",
+"capKo": "하노이",
+"capEn": "Hanoi",
+"lat": 16.85,
+"lng": 105.976,
+"rank": 2
+},
+{
+"a3": "KOR",
+"nameKo": "대한민국",
+"nameEn": "South Korea",
+"capKo": "서울",
+"capEn": "Seoul",
+"lat": 36.659,
+"lng": 127.539,
+"rank": 2
+},
+{
+"a3": "IND",
+"nameKo": "인도",
+"nameEn": "India",
+"capKo": "뉴델리",
+"capEn": "New Delhi",
+"lat": 23.934,
+"lng": 83.486,
+"rank": 2
+},
+{
+"a3": "PAK",
+"nameKo": "파키스탄",
+"nameEn": "Pakistan",
+"capKo": "이슬라마바드",
+"capEn": "Islamabad",
+"lat": 30.718,
+"lng": 69.314,
+"rank": 2
+},
+{
+"a3": "IRN",
+"nameKo": "이란",
+"nameEn": "Iran",
+"capKo": "테헤란",
+"capEn": "Tehran",
+"lat": 33.4,
+"lng": 53.294,
+"rank": 2
+},
+{
+"a3": "DEU",
+"nameKo": "독일",
+"nameEn": "Germany",
+"capKo": "베를린",
+"capEn": "Berlin",
+"lat": 50.997,
+"lng": 10.631,
+"rank": 2
+},
+{
+"a3": "TUR",
+"nameKo": "터키",
+"nameEn": "Turkey",
+"capKo": "앙카라",
+"capEn": "Ankara",
+"lat": 38.401,
+"lng": 36.753,
+"rank": 2
+},
+{
+"a3": "BEL",
+"nameKo": "벨기에",
+"nameEn": "Belgium",
+"capKo": "브뤼셀",
+"capEn": "Brussels",
+"lat": 50.71,
+"lng": 4.325,
+"rank": 2
+},
+{
+"a3": "PRT",
+"nameKo": "포르투갈",
+"nameEn": "Portugal",
+"capKo": "리스본",
+"capEn": "Lisbon",
+"lat": 39.698,
+"lng": -8.008,
+"rank": 2
+},
+{
+"a3": "ESP",
+"nameKo": "스페인",
+"nameEn": "Spain",
+"capKo": "마드리드",
+"capEn": "Madrid",
+"lat": 40.237,
+"lng": -4.391,
+"rank": 2
+},
+{
+"a3": "NZL",
+"nameKo": "뉴질랜드",
+"nameEn": "New Zealand",
+"capKo": "웰링턴",
+"capEn": "Wellington",
+"lat": -43.539,
+"lng": 171.025,
+"rank": 2
+},
+{
+"a3": "AUS",
+"nameKo": "오스트레일리아",
+"nameEn": "Australia",
+"capKo": "캔버라",
+"capEn": "Canberra",
+"lat": -23.766,
+"lng": 133.278,
+"rank": 2
+},
+{
+"a3": "CHN",
+"nameKo": "중화인민공화국",
+"nameEn": "China",
+"capKo": "베이징",
+"capEn": "Beijing",
+"lat": 37.285,
+"lng": 105.779,
+"rank": 2
+},
+{
+"a3": "ITA",
+"nameKo": "이탈리아",
+"nameEn": "Italy",
+"capKo": "로마",
+"capEn": "Rome",
+"lat": 43.028,
+"lng": 12.66,
+"rank": 2
+},
+{
+"a3": "GBR",
+"nameKo": "영국",
+"nameEn": "United Kingdom",
+"capKo": "런던",
+"capEn": "London",
+"lat": 53.907,
+"lng": -3.084,
+"rank": 2
+},
+{
+"a3": "PHL",
+"nameKo": "필리핀",
+"nameEn": "Philippines",
+"capKo": "마닐라",
+"capEn": "Manila",
+"lat": 15.28,
+"lng": 121.8,
+"rank": 2
+},
+{
+"a3": "JPN",
+"nameKo": "일본",
+"nameEn": "Japan",
+"capKo": "도쿄",
+"capEn": "Tokyo",
+"lat": 35.624,
+"lng": 135.832,
+"rank": 2
+},
+{
+"a3": "SAU",
+"nameKo": "사우디아라비아",
+"nameEn": "Saudi Arabia",
+"capKo": "리야드",
+"capEn": "Riyadh",
+"lat": 23.969,
+"lng": 43.709,
+"rank": 2
+},
+{
+"a3": "EGY",
+"nameKo": "이집트",
+"nameEn": "Egypt",
+"capKo": "카이로",
+"capEn": "Cairo",
+"lat": 28.319,
+"lng": 31.578,
+"rank": 2
+},
+{
+"a3": "ETH",
+"nameKo": "에티오피아",
+"nameEn": "Ethiopia",
+"capKo": "아디스아바바",
+"capEn": "Addis Ababa",
+"lat": 9.0,
+"lng": 39.061,
+"rank": 2
+},
+{
+"a3": "KAZ",
+"nameKo": "카자흐스탄",
+"nameEn": "Kazakhstan",
+"capKo": "아스타나",
+"capEn": "Astana",
+"lat": 47.246,
+"lng": 65.053,
+"rank": 3
+},
+{
+"a3": "SDN",
+"nameKo": "수단",
+"nameEn": "Sudan",
+"capKo": "하르툼",
+"capEn": "Khartoum",
+"lat": 12.865,
+"lng": 29.397,
+"rank": 3
+},
+{
+"a3": "TCD",
+"nameKo": "차드",
+"nameEn": "Chad",
+"capKo": "은자메나",
+"capEn": "N'Djamena",
+"lat": 12.88,
+"lng": 17.893,
+"rank": 3
+},
+{
+"a3": "GRL",
+"nameKo": "그린란드",
+"nameEn": "Greenland",
+"capKo": "누크",
+"capEn": "Nuuk",
+"lat": 74.083,
+"lng": -40.988,
+"rank": 3
+},
+{
+"a3": "BOL",
+"nameKo": "볼리비아",
+"nameEn": "Bolivia",
+"capKo": "라파스",
+"capEn": "La Paz",
+"lat": -16.428,
+"lng": -64.039,
+"rank": 3
+},
+{
+"a3": "MLI",
+"nameKo": "말리",
+"nameEn": "Mali",
+"capKo": "바마코",
+"capEn": "Bamako",
+"lat": 14.101,
+"lng": -5.726,
+"rank": 3
+},
+{
+"a3": "NER",
+"nameKo": "니제르",
+"nameEn": "Niger",
+"capKo": "니아메",
+"capEn": "Niamey",
+"lat": 15.349,
+"lng": 8.63,
+"rank": 3
+},
+{
+"a3": "AGO",
+"nameKo": "앙골라",
+"nameEn": "Angola",
+"capKo": "루안다",
+"capEn": "Luanda",
+"lat": -11.013,
+"lng": 17.457,
+"rank": 3
+},
+{
+"a3": "DZA",
+"nameKo": "알제리",
+"nameEn": "Algeria",
+"capKo": "알제",
+"capEn": "Algiers",
+"lat": 29.703,
+"lng": 3.208,
+"rank": 3
+},
+{
+"a3": "MNG",
+"nameKo": "몽골",
+"nameEn": "Mongolia",
+"capKo": "울란바토르",
+"capEn": "Ulaanbaatar",
+"lat": 47.176,
+"lng": 104.813,
+"rank": 3
+},
+{
+"a3": "LBY",
+"nameKo": "리비아",
+"nameEn": "Libya",
+"capKo": "트리폴리",
+"capEn": "Tripoli",
+"lat": 28.595,
+"lng": 16.486,
+"rank": 3
+}
+]
