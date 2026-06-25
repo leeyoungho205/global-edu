@@ -1,6 +1,5 @@
 import { useRef, useState, useMemo, Suspense } from 'react'
 import { useFrame } from '@react-three/fiber'
-import { Html } from '@react-three/drei'
 import * as THREE from 'three'
 import { latLngToVector3 } from '../utils/geo'
 import LandmarkModel from './LandmarkModel'
@@ -101,28 +100,6 @@ export default function SurfaceMarker({ data, radius = 2, onSelect, isActive }) 
           <LandmarkModel type={data.model} color={data.color} spin={false} />
         )}
       </group>
-
-      {/* 호버/활성 시 이름표 (Glass 미니 라벨) */}
-      {(hovered || isActive) && (
-        <Html distanceFactor={8} center position={[0, 0.32, 0]} style={{ pointerEvents: 'none' }}>
-          <div
-            style={{
-              whiteSpace: 'nowrap',
-              padding: '2px 6px',
-              borderRadius: '7px',
-              fontSize: '5.5px',
-              fontWeight: 600,
-              color: '#fff',
-              background: 'rgba(10,15,30,0.7)',
-              backdropFilter: 'blur(8px)',
-              border: `1px solid ${data.color}`,
-              boxShadow: `0 0 12px ${data.color}66`,
-            }}
-          >
-            {data.emoji} {data.name}
-          </div>
-        </Html>
-      )}
     </group>
   )
 }

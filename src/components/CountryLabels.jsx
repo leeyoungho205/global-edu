@@ -54,7 +54,8 @@ function LabelItem({ item, lang, radius, offset }) {
       )}
 
       <group ref={groupRef} position={labelPos.toArray()}>
-        <Html center distanceFactor={9} zIndexRange={[20, 0]} style={{ pointerEvents: 'none' }}>
+        {/* distanceFactor를 작게 + 글자를 큰 px로 그려서 "축소 렌더링" → 확대해도 안 깨짐 */}
+        <Html center distanceFactor={2.4} zIndexRange={[20, 0]} style={{ pointerEvents: 'none' }}>
           <div
             ref={divRef}
             style={{
@@ -62,18 +63,22 @@ function LabelItem({ item, lang, radius, offset }) {
               textAlign: 'center',
               whiteSpace: 'nowrap',
               userSelect: 'none',
+              // 또렷한 렌더링 (안티에일리어싱 + 정밀 렌더)
+              WebkitFontSmoothing: 'antialiased',
+              textRendering: 'geometricPrecision',
+              fontFamily: "'Noto Sans KR', -apple-system, 'Apple SD Gothic Neo', sans-serif",
             }}
           >
             {/* 국가명 */}
             <div
               style={{
-                fontSize: big ? '7px' : '5px',
+                fontSize: big ? '22px' : '16px',
                 fontWeight: 700,
                 color: '#fff',
                 letterSpacing: '0.02em',
                 // 가독성: 어두운 외곽선(text-shadow)으로 어떤 배경에서도 또렷하게
                 textShadow:
-                  '0 0 4px rgba(0,0,0,0.95), 0 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.7)',
+                  '0 0 6px rgba(0,0,0,0.95), 0 2px 5px rgba(0,0,0,0.9), 0 0 14px rgba(0,0,0,0.7)',
               }}
             >
               {name}
@@ -82,11 +87,11 @@ function LabelItem({ item, lang, radius, offset }) {
             {capital && (
               <div
                 style={{
-                  fontSize: big ? '5px' : '4px',
+                  fontSize: big ? '16px' : '13px',
                   fontWeight: 500,
                   color: '#7dd3fc',
-                  marginTop: '1px',
-                  textShadow: '0 0 4px rgba(0,0,0,0.95), 0 1px 2px rgba(0,0,0,0.9)',
+                  marginTop: '3px',
+                  textShadow: '0 0 6px rgba(0,0,0,0.95), 0 2px 4px rgba(0,0,0,0.9)',
                 }}
               >
                 ★ {capital}
