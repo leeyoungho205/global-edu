@@ -11,7 +11,7 @@
 | bigben.glb | 빅벤 | https://poly.pizza/m/8PaQZ_nLFIQ |
 | greatwall.glb | 만리장성 | https://poly.pizza/m/geisKzlSFZ |
 | taj.glb | 타지마할 | https://poly.pizza/m/a68qNnAC4m- |
-| palace.glb | 경복궁(사찰/탑) | https://poly.pizza/m/CE2Mn7lh6A |
+| palace.glb | 경복궁(동양식 누각) | https://poly.pizza/m/d1M5ncMBUDi |
 | pyramid.glb | 피라미드 | https://poly.pizza/m/c-tEGK9e49p |
 | mountain.glb | 킬리만자로(산) | https://poly.pizza/m/6qp53W5djC5 |
 | statue.glb | 자유의 여신상 | https://poly.pizza/m/ef9Yd09Doxh |
